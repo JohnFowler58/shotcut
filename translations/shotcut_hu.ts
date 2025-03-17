@@ -6,12 +6,12 @@
     <message>
         <location filename="../src/jobs/abstractjob.cpp" line="53"/>
         <source>Pause This Job</source>
-        <translation type="unfinished"></translation>
+        <translation type="Szüneteltesse ezt a munkát"></translation>
     </message>
     <message>
         <location filename="../src/jobs/abstractjob.cpp" line="56"/>
         <source>Resume This Job</source>
-        <translation type="unfinished"></translation>
+        <translation type="Folytassa ezt a munkát"></translation>
     </message>
 </context>
 <context>
@@ -19,7 +19,7 @@
     <message>
         <location filename="../src/dialogs/actionsdialog.cpp" line="238"/>
         <source>Actions and Shortcuts</source>
-        <translation type="unfinished"></translation>
+        <translation type="Műveletek és billentyűparancsok"></translation>
     </message>
     <message>
         <location filename="../src/dialogs/actionsdialog.cpp" line="246"/>
@@ -33,13 +33,13 @@
     </message>
     <message>
         <location filename="../src/dialogs/actionsdialog.cpp" line="295"/>
-        <source>Click on the selected shortcut to show the editor</source>
+        <source>Kattintson a kiválasztott parancsikonra a szerkesztő megjelenítéséhez</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/dialogs/actionsdialog.cpp" line="301"/>
         <source>Reserved shortcuts can not be edited</source>
-        <translation type="unfinished"></translation>
+        <translation type="A lefoglalt parancsikonok nem szerkeszthetők"></translation>
     </message>
 </context>
 <context>
@@ -47,27 +47,27 @@
     <message>
         <location filename="../src/models/actionsmodel.cpp" line="188"/>
         <source>Shortcut %1 is used by %2</source>
-        <translation type="unfinished"></translation>
+        <translation type="A(z) %1 parancsikont a(z) %2 használja"></translation>
     </message>
     <message>
         <location filename="../src/models/actionsmodel.cpp" line="198"/>
         <source>Shortcut %1 is reserved for use by %2</source>
-        <translation type="unfinished"></translation>
+        <translation type="A(z) %1 parancsikon a(z) %2 számára van fenntartva"></translation>
     </message>
     <message>
         <location filename="../src/models/actionsmodel.cpp" line="233"/>
         <source>Action</source>
-        <translation type="unfinished"></translation>
+        <translation type="Művelet"></translation>
     </message>
     <message>
         <location filename="../src/models/actionsmodel.cpp" line="235"/>
         <source>Shortcut 1</source>
-        <translation type="unfinished"></translation>
+        <translation type="1. billentyűparancs"></translation>
     </message>
     <message>
         <location filename="../src/models/actionsmodel.cpp" line="237"/>
         <source>Shortcut 2</source>
-        <translation type="unfinished"></translation>
+        <translation type="2. billentyűparancs"></translation>
     </message>
 </context>
 <context>
@@ -103,12 +103,12 @@
     <message>
         <location filename="../src/dialogs/alignaudiodialog.cpp" line="234"/>
         <source>Reference audio track</source>
-        <translation type="unfinished"></translation>
+        <translation type="Referencia hangsáv"></translation>
     </message>
     <message>
         <location filename="../src/dialogs/alignaudiodialog.cpp" line="251"/>
         <source>Speed adjustment range</source>
-        <translation type="unfinished"></translation>
+        <translation type="Sebesség beállítási tartomány"></translation>
     </message>
     <message>
         <location filename="../src/dialogs/alignaudiodialog.cpp" line="254"/>
@@ -118,7 +118,7 @@
     <message>
         <location filename="../src/dialogs/alignaudiodialog.cpp" line="255"/>
         <source>Narrow</source>
-        <translation type="unfinished"></translation>
+        <translation type="Keskeny"></translation>
     </message>
     <message>
         <location filename="../src/dialogs/alignaudiodialog.cpp" line="257"/>
@@ -128,17 +128,17 @@
     <message>
         <location filename="../src/dialogs/alignaudiodialog.cpp" line="259"/>
         <source>Wide</source>
-        <translation type="unfinished"></translation>
+        <translation type="Széles"></translation>
     </message>
     <message>
         <location filename="../src/dialogs/alignaudiodialog.cpp" line="260"/>
         <source>Very wide</source>
-        <translation type="unfinished"></translation>
+        <translation type="Nagyon széles"></translation>
     </message>
     <message>
         <location filename="../src/dialogs/alignaudiodialog.cpp" line="303"/>
         <source>Process</source>
-        <translation type="unfinished"></translation>
+        <translation type="Folyamat"></translation>
     </message>
     <message>
         <location filename="../src/dialogs/alignaudiodialog.cpp" line="306"/>
@@ -148,37 +148,37 @@
     <message>
         <location filename="../src/dialogs/alignaudiodialog.cpp" line="309"/>
         <source>Process + Apply</source>
-        <translation type="unfinished"></translation>
+        <translation type="Folyamat + Alkalmazás"></translation>
     </message>
     <message>
         <location filename="../src/dialogs/alignaudiodialog.cpp" line="347"/>
         <source>This clip will be skipped because it is on the reference track.</source>
-        <translation type="unfinished"></translation>
+        <translation type="Ez a klip kimarad, mert a referenciasávon van."></translation>
     </message>
     <message>
         <location filename="../src/dialogs/alignaudiodialog.cpp" line="353"/>
         <source>This item can not be aligned.</source>
-        <translation type="unfinished"></translation>
+        <translation type="Ez az elem nem igazítható."></translation>
     </message>
     <message>
         <location filename="../src/dialogs/alignaudiodialog.cpp" line="365"/>
         <source>Align Audio</source>
-        <translation type="unfinished"></translation>
+        <translation type="Hang igazítása"></translation>
     </message>
     <message>
         <location filename="../src/dialogs/alignaudiodialog.cpp" line="482"/>
         <source>Analyze Reference Track</source>
-        <translation type="unfinished"></translation>
+        <translation type="Referenciasáv elemzése"></translation>
     </message>
     <message>
         <location filename="../src/dialogs/alignaudiodialog.cpp" line="490"/>
         <source>Analyze Clips</source>
-        <translation type="unfinished"></translation>
+        <translation type="Klipek elemzése"></translation>
     </message>
     <message>
         <location filename="../src/dialogs/alignaudiodialog.cpp" line="500"/>
         <source>Alignment not found.</source>
-        <translation type="unfinished"></translation>
+        <translation type="Az igazítás nem található."></translation>
     </message>
 </context>
 <context>
@@ -315,7 +315,7 @@
     <message>
         <location filename="../src/widgets/scopes/audioloudnessscopewidget.cpp" line="178"/>
         <source>Audio Loudness</source>
-        <translation>Hangerő</translation>
+        <translation>Hangosság</translation>
     </message>
 </context>
 <context>
@@ -375,7 +375,7 @@
     <message>
         <location filename="../src/widgets/scopes/audiosurroundscopewidget.cpp" line="70"/>
         <source>Audio Surround</source>
-        <translation type="unfinished"></translation>
+        <translation type="Térhatású hang"></translation>
     </message>
     <message>
         <location filename="../src/widgets/scopes/audiosurroundscopewidget.cpp" line="252"/>
@@ -395,12 +395,12 @@
     <message>
         <location filename="../src/widgets/scopes/audiosurroundscopewidget.cpp" line="293"/>
         <source>LS</source>
-        <translation type="unfinished"></translation>
+        <translation type="LS"></translation>
     </message>
     <message>
         <location filename="../src/widgets/scopes/audiosurroundscopewidget.cpp" line="306"/>
         <source>RS</source>
-        <translation type="unfinished"></translation>
+        <translation type="RS"></translation>
     </message>
 </context>
 <context>
@@ -441,12 +441,12 @@
         <location filename="../src/widgets/scopes/audiovectorscopewidget.cpp" line="109"/>
         <location filename="../src/widgets/scopes/audiovectorscopewidget.cpp" line="110"/>
         <source>LFE</source>
-        <translation type="unfinished"></translation>
+        <translation type="LFE"></translation>
     </message>
     <message>
         <location filename="../src/widgets/scopes/audiovectorscopewidget.cpp" line="215"/>
         <source>Audio Vector</source>
-        <translation type="unfinished"></translation>
+        <translation type="Hangvektor"></translation>
     </message>
 </context>
 <context>
@@ -471,7 +471,7 @@
     <message>
         <location filename="../src/widgets/scopes/audiowaveformscopewidget.cpp" line="273"/>
         <source>Ch: %1: %2 (%3 dBFS)</source>
-        <translation>Cs: %1: %2 (%3 dBFS)</translation>
+        <translation>Ch: %1: %2 (%3 dBFS)</translation>
     </message>
     <message>
         <location filename="../src/widgets/scopes/audiowaveformscopewidget.cpp" line="298"/>
@@ -509,7 +509,7 @@
     <message>
         <location filename="../src/widgets/avformatproducerwidget.ui" line="569"/>
         <source>Broadcast Limited (MPEG)</source>
-        <translation>Broadcast Limited (MPEG)</translation>
+        <translation>Korlátolt műsorszolgáltató (MPEG)</translation>
     </message>
     <message>
         <location filename="../src/widgets/avformatproducerwidget.ui" line="574"/>
@@ -563,7 +563,7 @@
     <message>
         <location filename="../src/widgets/avformatproducerwidget.ui" line="199"/>
         <source>Speed Presets</source>
-        <translation type="unfinished"></translation>
+        <translation type="Sebességbeállítások"></translation>
     </message>
     <message>
         <location filename="../src/widgets/avformatproducerwidget.ui" line="251"/>
@@ -595,7 +595,7 @@
         <location filename="../src/widgets/avformatproducerwidget.ui" line="384"/>
         <location filename="../src/widgets/avformatproducerwidget.ui" line="424"/>
         <source>Frame rate</source>
-        <translation>Képfrissítés</translation>
+        <translation>Képkockasebesség</translation>
     </message>
     <message>
         <location filename="../src/widgets/avformatproducerwidget.ui" line="389"/>
@@ -700,7 +700,7 @@
     <message>
         <location filename="../src/widgets/avformatproducerwidget.ui" line="880"/>
         <source> ms</source>
-        <translation>ms</translation>
+        <translation> ms</translation>
     </message>
     <message>
         <location filename="../src/widgets/avformatproducerwidget.ui" line="909"/>
@@ -720,7 +720,7 @@
     <message>
         <location filename="../src/widgets/avformatproducerwidget.ui" line="1062"/>
         <source>Extract Subtitles...</source>
-        <translation type="unfinished"></translation>
+        <translation type="Feliratok kibontása..."></translation>
     </message>
     <message>
         <location filename="../src/widgets/avformatproducerwidget.ui" line="1095"/>
@@ -741,22 +741,22 @@
         <location filename="../src/widgets/avformatproducerwidget.ui" line="1113"/>
         <location filename="../src/widgets/avformatproducerwidget.ui" line="1116"/>
         <source>Export GPX</source>
-        <translation type="unfinished"></translation>
+        <translation type="GPX exportálása"></translation>
     </message>
     <message>
         <location filename="../src/widgets/avformatproducerwidget.ui" line="1121"/>
         <source>View Bitrate...</source>
-        <translation type="unfinished"></translation>
+        <translation type="Bitsebesség megtekintése..."></translation>
     </message>
     <message>
         <location filename="../src/widgets/avformatproducerwidget.ui" line="1124"/>
         <source>View Bitrate</source>
-        <translation type="unfinished"></translation>
+        <translation type="Bitsebesség megtekintése"></translation>
     </message>
     <message>
         <location filename="../src/widgets/avformatproducerwidget.ui" line="1129"/>
         <source>Show In Files</source>
-        <translation type="unfinished"></translation>
+        <translation type="Megjelenítés fájlokban"></translation>
     </message>
     <message>
         <location filename="../src/widgets/avformatproducerwidget.ui" line="1000"/>
@@ -766,7 +766,7 @@
     <message>
         <location filename="../src/widgets/avformatproducerwidget.ui" line="305"/>
         <source>Color range</source>
-        <translation type="unfinished"></translation>
+        <translation type="Színválaszték"></translation>
     </message>
     <message>
         <location filename="../src/widgets/avformatproducerwidget.ui" line="1003"/>
@@ -867,7 +867,7 @@
 
 If yes, choose a format below and then click OK to choose a file name. After choosing a file name, a job is created. When it is done, it automatically replaces clips, or you can double-click the job to open it.
 </source>
-        <translation>Át szeretné alakítani egy szerkesztés-barát formátumba?
+        <translation> Át szeretné alakítani egy szerkesztés-barát formátumba?
 Ha igen, válasszon egyet az alábbi formátumok közül és kattintsonaz OK-re fájlnév választásához. Ezután egy feladat jön létre. Amint az elkészül, automatikusan lecseréli a klippeket; vagy dupla kattintással megnyithatja a feladatot.
 </translation>
     </message>
@@ -901,12 +901,12 @@ Ha igen, válasszon egyet az alábbi formátumok közül és kattintsonaz OK-re 
     <message>
         <location filename="../src/widgets/avformatproducerwidget.cpp" line="1039"/>
         <source>Reversed</source>
-        <translation>Megfordítva</translation>
+        <translation>Megfordítás</translation>
     </message>
     <message>
         <location filename="../src/widgets/avformatproducerwidget.cpp" line="1069"/>
         <source>Reverse canceled</source>
-        <translation type="unfinished"></translation>
+        <translation type="Megfordítás megszakítása"></translation>
     </message>
     <message>
         <location filename="../src/widgets/avformatproducerwidget.cpp" line="1100"/>
@@ -936,34 +936,34 @@ Ha igen, válasszon egyet az alábbi formátumok közül és kattintsonaz OK-re 
     <message>
         <location filename="../src/widgets/avformatproducerwidget.cpp" line="1205"/>
         <source>Extract sub-clip %1</source>
-        <translation>%1 al-klip kiemelése</translation>
+        <translation>%1 al-klip kibontása</translation>
     </message>
     <message>
         <location filename="../src/widgets/avformatproducerwidget.cpp" line="1224"/>
         <location filename="../src/widgets/avformatproducerwidget.cpp" line="1274"/>
         <source>Track %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="%1 sáv"></translation>
     </message>
     <message>
         <location filename="../src/widgets/avformatproducerwidget.cpp" line="1226"/>
         <location filename="../src/widgets/avformatproducerwidget.cpp" line="1276"/>
         <source>Track %1 (%2)</source>
-        <translation type="unfinished"></translation>
+        <translation type="%1 (%2) sáv"></translation>
     </message>
     <message>
         <location filename="../src/widgets/avformatproducerwidget.cpp" line="1230"/>
         <source>Export Subtitles...</source>
-        <translation type="unfinished"></translation>
+        <translation type="Feliratok exportálása..."></translation>
     </message>
     <message>
         <location filename="../src/widgets/avformatproducerwidget.cpp" line="1232"/>
         <source>No subtitles found</source>
-        <translation type="unfinished"></translation>
+        <translation type="Nem található felirat"></translation>
     </message>
     <message>
         <location filename="../src/widgets/avformatproducerwidget.cpp" line="1291"/>
         <source>Extract subtitles %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="%1 feliratok kibontása"></translation>
     </message>
     <message>
         <location filename="../src/widgets/avformatproducerwidget.cpp" line="1404"/>
@@ -992,7 +992,7 @@ Ha igen, válasszon egyet az alábbi formátumok közül és kattintsonaz OK-re 
     <message>
         <location filename="../src/widgets/avformatproducerwidget.cpp" line="1584"/>
         <source>Bitrate %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="%1 bitsebesség"></translation>
     </message>
 </context>
 <context>
@@ -1006,7 +1006,7 @@ Ha igen, válasszon egyet az alábbi formátumok közül és kattintsonaz OK-re 
         <location filename="../src/widgets/avfoundationproducerwidget.ui" line="26"/>
         <location filename="../src/widgets/avfoundationproducerwidget.cpp" line="107"/>
         <source>Audio/Video Device</source>
-        <translation>Hang-/videoeszköz</translation>
+        <translation>Hang-/videóeszköz</translation>
     </message>
     <message>
         <location filename="../src/widgets/avfoundationproducerwidget.ui" line="39"/>
@@ -1034,7 +1034,7 @@ Ha igen, válasszon egyet az alábbi formátumok közül és kattintsonaz OK-re 
     <message>
         <location filename="../src/dialogs/bitratedialog.cpp" line="48"/>
         <source>Bitrate Viewer</source>
-        <translation type="unfinished"></translation>
+        <translation type="Bitsebesség megtekintő"></translation>
     </message>
     <message>
         <location filename="../src/dialogs/bitratedialog.cpp" line="66"/>
@@ -1044,17 +1044,17 @@ Ha igen, válasszon egyet az alábbi formátumok közül és kattintsonaz OK-re 
     <message>
         <location filename="../src/dialogs/bitratedialog.cpp" line="74"/>
         <source>Average</source>
-        <translation type="unfinished"></translation>
+        <translation type="Átlag"></translation>
     </message>
     <message>
         <location filename="../src/dialogs/bitratedialog.cpp" line="135"/>
         <source>Bitrates for %1 ~~ Avg. %2 Min. %3 Max. %4 Kb/s</source>
-        <translation type="unfinished"></translation>
+        <translation type="Bitráták %1 ~~ Átlag %2 Min. %3 Max. %4 Kb/s"></translation>
     </message>
     <message>
         <location filename="../src/dialogs/bitratedialog.cpp" line="179"/>
         <source>Save Bitrate Graph</source>
-        <translation type="unfinished"></translation>
+        <translation type="Bitráta grafikon mentése"></translation>
     </message>
 </context>
 <context>
@@ -1085,7 +1085,7 @@ Ha igen, válasszon egyet az alábbi formátumok közül és kattintsonaz OK-re 
     <message numerus="yes">
         <location filename="../src/widgets/blipproducerwidget.cpp" line="67"/>
         <source> second(s)</source>
-        <translation type="unfinished">
+        <translation type=" másodperc">
             <numerusform></numerusform>
         </translation>
     </message>
@@ -1209,7 +1209,7 @@ Ha igen, válasszon egyet az alábbi formátumok közül és kattintsonaz OK-re 
     <message>
         <location filename="../src/widgets/colorproducerwidget.cpp" line="58"/>
         <source>black</source>
-        <translation>vissza</translation>
+        <translation>fekete</translation>
     </message>
     <message>
         <location filename="../src/widgets/colorproducerwidget.cpp" line="60"/>
@@ -1222,18 +1222,19 @@ Ha igen, válasszon egyet az alábbi formátumok közül és kattintsonaz OK-re 
     <message>
         <location filename="../src/qml/views/filter/CopyFiltersDialog.qml" line="44"/>
         <source>Copy Filters</source>
-        <translation type="unfinished"></translation>
+        <translation type="Szűrők másolása"></translation>
     </message>
     <message>
         <location filename="../src/qml/views/filter/CopyFiltersDialog.qml" line="57"/>
         <source>Enter a name to save a filter set, or
 leave blank to use the clipboard:</source>
-        <translation type="unfinished"></translation>
+        <translation type="Adjon meg egy nevet a szűrőkészlet mentéséhez, vagy
+hagyja üresen a vágólap használatához:"></translation>
     </message>
     <message>
         <location filename="../src/qml/views/filter/CopyFiltersDialog.qml" line="64"/>
         <source>optional</source>
-        <translation type="unfinished"></translation>
+        <translation type="választható"></translation>
     </message>
     <message>
         <location filename="../src/qml/views/filter/CopyFiltersDialog.qml" line="84"/>
@@ -1370,22 +1371,22 @@ leave blank to use the clipboard:</source>
     <message>
         <location filename="../src/qml/modules/Shotcut/Controls/CurveComboBox.qml" line="36"/>
         <source>Natural</source>
-        <translation type="unfinished"></translation>
+        <translation type="Természetes"></translation>
     </message>
     <message>
         <location filename="../src/qml/modules/Shotcut/Controls/CurveComboBox.qml" line="40"/>
         <source>S-Curve</source>
-        <translation type="unfinished"></translation>
+        <translation type="S-görbe"></translation>
     </message>
     <message>
         <location filename="../src/qml/modules/Shotcut/Controls/CurveComboBox.qml" line="44"/>
         <source>Fast-Slow</source>
-        <translation type="unfinished"></translation>
+        <translation type="Gyors-lassú"></translation>
     </message>
     <message>
         <location filename="../src/qml/modules/Shotcut/Controls/CurveComboBox.qml" line="48"/>
         <source>Slow-Fast</source>
-        <translation type="unfinished"></translation>
+        <translation type="Lassú-gyors"></translation>
     </message>
 </context>
 <context>
@@ -1556,7 +1557,7 @@ leave blank to use the clipboard:</source>
     <message>
         <location filename="../src/widgets/editmarkerwidget.cpp" line="57"/>
         <source>Start</source>
-        <translation>Start</translation>
+        <translation>Indít</translation>
     </message>
     <message>
         <location filename="../src/widgets/editmarkerwidget.cpp" line="62"/>
@@ -1753,12 +1754,12 @@ megszűntetővel együtt használva.</translation>
     <message>
         <location filename="../src/docks/encodedock.ui" line="330"/>
         <source>Reframe</source>
-        <translation type="unfinished"></translation>
+        <translation type="Felfrissítés"></translation>
     </message>
     <message>
         <location filename="../src/docks/encodedock.ui" line="589"/>
         <source>Color range</source>
-        <translation type="unfinished"></translation>
+        <translation type="Színválaszték"></translation>
     </message>
     <message>
         <location filename="../src/docks/encodedock.ui" line="607"/>
@@ -1778,12 +1779,12 @@ megszűntetővel együtt használva.</translation>
     <message>
         <location filename="../src/docks/encodedock.ui" line="873"/>
         <source>YADIF - temporal + spatial (better)</source>
-        <translation type="unfinished"></translation>
+        <translation type="YADIF - időbeli + térbeli (jobb)"></translation>
     </message>
     <message>
         <location filename="../src/docks/encodedock.ui" line="878"/>
         <source>BWDIF (best)</source>
-        <translation type="unfinished"></translation>
+        <translation type=">BWDIF (legjobb)"></translation>
     </message>
     <message>
         <location filename="../src/docks/encodedock.ui" line="955"/>
@@ -1811,7 +1812,8 @@ megszűntetővel együtt használva.</translation>
         <location filename="../src/docks/encodedock.ui" line="1039"/>
         <source>A fixed GOP means that keyframes will
 not be inserted at detected scene changes.</source>
-        <translation>A rögzített GOP azt jelenti, hogy a kulcsképkockák nem kerülnek beszúrásra az érzékelt jelenet változásoknál</translation>
+        <translation>A rögzített GOP azt jelenti, hogy a 
+kulcsképkockák nem kerülnek beszúrásra az érzékelt jelenet változásoknál</translation>
     </message>
     <message>
         <location filename="../src/docks/encodedock.ui" line="1043"/>
@@ -1838,7 +1840,7 @@ not be inserted at detected scene changes.</source>
     <message>
         <location filename="../src/docks/encodedock.ui" line="1249"/>
         <source>Dual pass</source>
-        <translation>Kettős menetben</translation>
+        <translation>Kétmenetes</translation>
     </message>
     <message>
         <location filename="../src/docks/encodedock.ui" line="1256"/>
@@ -1866,7 +1868,7 @@ időbeni tömörítésnél</translation>
         <location filename="../src/docks/encodedock.ui" line="1344"/>
         <location filename="../src/docks/encodedock.ui" line="1814"/>
         <source>Rate control</source>
-        <translation>Bitráta</translation>
+        <translation>Sebességszabályozás</translation>
     </message>
     <message>
         <location filename="../src/docks/encodedock.ui" line="1357"/>
@@ -1911,7 +1913,7 @@ időbeni tömörítésnél</translation>
         <location filename="../src/docks/encodedock.ui" line="1451"/>
         <location filename="../src/docks/encodedock.ui" line="1872"/>
         <source> %</source>
-        <translation>%</translation>
+        <translation> %</translation>
     </message>
     <message>
         <location filename="../src/docks/encodedock.ui" line="1467"/>
@@ -1923,7 +1925,7 @@ időbeni tömörítésnél</translation>
         <location filename="../src/docks/encodedock.ui" line="1489"/>
         <location filename="../src/docks/encodedock.ui" line="1677"/>
         <source>Bitrate</source>
-        <translation>Bitráta</translation>
+        <translation>Bitsebesség</translation>
     </message>
     <message>
         <location filename="../src/docks/encodedock.ui" line="1500"/>
@@ -1953,12 +1955,12 @@ időbeni tömörítésnél</translation>
     <message>
         <location filename="../src/docks/encodedock.ui" line="1535"/>
         <source>4 (quad/Ambisonics)</source>
-        <translation type="unfinished"></translation>
+        <translation type="4 (négyes/Ambisonics)"></translation>
     </message>
     <message>
         <location filename="../src/docks/encodedock.ui" line="1540"/>
         <source>6 (5.1 surround)</source>
-        <translation type="unfinished"></translation>
+        <translation type="6 (5.1 térhatás)"></translation>
     </message>
     <message>
         <location filename="../src/docks/encodedock.ui" line="1615"/>
@@ -1983,7 +1985,7 @@ időbeni tömörítésnél</translation>
     <message>
         <location filename="../src/docks/encodedock.ui" line="1927"/>
         <source>Disable subtitles</source>
-        <translation type="unfinished"></translation>
+        <translation type="Feliratok letiltása"></translation>
     </message>
     <message>
         <location filename="../src/docks/encodedock.ui" line="1960"/>
@@ -2019,7 +2021,7 @@ időbeni tömörítésnél</translation>
         <location filename="../src/docks/encodedock.cpp" line="2103"/>
         <location filename="../src/docks/encodedock.cpp" line="2215"/>
         <source>Stream</source>
-        <translation>Stream</translation>
+        <translation>Adatfolyam</translation>
     </message>
     <message>
         <location filename="../src/docks/encodedock.ui" line="2027"/>
@@ -2118,7 +2120,7 @@ Szeretné ezeket az elemzési feladatokat most lefuttatni?</translation>
         <location filename="../src/docks/encodedock.cpp" line="2091"/>
         <location filename="../src/docks/encodedock.cpp" line="2113"/>
         <source>Stop Stream</source>
-        <translation>Stream leállítása</translation>
+        <translation>Adatfolyam leállítása</translation>
     </message>
     <message>
         <location filename="../src/docks/encodedock.cpp" line="2105"/>
@@ -2158,7 +2160,7 @@ Szeretné ezeket az elemzési feladatokat most lefuttatni?</translation>
     <message>
         <location filename="../src/docks/encodedock.cpp" line="2581"/>
         <source>(auto)</source>
-        <translation type="unfinished"></translation>
+        <translation type="(automatikus)"></translation>
     </message>
     <message>
         <location filename="../src/docks/encodedock.cpp" line="2627"/>
@@ -2190,12 +2192,12 @@ A Shotcut megpróbálja majd kijavítani a projektet.
     <message>
         <location filename="../src/docks/encodedock.cpp" line="2958"/>
         <source>Aspect ratio does not match project Video Mode, which causes black bars.</source>
-        <translation type="unfinished"></translation>
+        <translation type="A képarány nem egyezik meg a projekt videó módjával, ami fekete sávokat okoz."></translation>
     </message>
     <message>
         <location filename="../src/docks/encodedock.cpp" line="2996"/>
         <source>Frame rate is higher than project Video Mode, which causes frames to repeat.</source>
-        <translation type="unfinished"></translation>
+        <translation type="A képkockasebesség nagyobb, mint a vetített videó mód, ami a képkockák ismétlődését okozza."></translation>
     </message>
     <message>
         <location filename="../src/docks/encodedock.cpp" line="2522"/>
@@ -2205,22 +2207,22 @@ A Shotcut megpróbálja majd kijavítani a projektet.
     <message>
         <location filename="../src/docks/encodedock.cpp" line="468"/>
         <source>Current Playlist Bin</source>
-        <translation type="unfinished"></translation>
+        <translation type="Aktuális lejátszási lista tároló"></translation>
     </message>
     <message>
         <location filename="../src/docks/encodedock.cpp" line="469"/>
         <source>Each Playlist Bin Item</source>
-        <translation type="unfinished"></translation>
+        <translation type="Minden lejátszási lista tétel"></translation>
     </message>
     <message>
         <location filename="../src/docks/encodedock.cpp" line="1903"/>
         <source>Export Each Playlist Bin Item</source>
-        <translation type="unfinished"></translation>
+        <translation type="Exportáljon minden lejátszási lista tálalót"></translation>
     </message>
     <message>
         <location filename="../src/docks/encodedock.cpp" line="1948"/>
         <source>Export canceled</source>
-        <translation type="unfinished"></translation>
+        <translation type="Az exportálás megszakítva"></translation>
     </message>
     <message>
         <location filename="../src/docks/encodedock.cpp" line="2546"/>
@@ -2244,7 +2246,7 @@ A Shotcut megpróbálja majd kijavítani a projektet.
         <location filename="../src/jobs/encodejob.cpp" line="52"/>
         <location filename="../src/jobs/encodejob.cpp" line="53"/>
         <source>Show In Files</source>
-        <translation type="unfinished"></translation>
+        <translation type="Megjelenítés fájlokban"></translation>
     </message>
     <message>
         <location filename="../src/jobs/encodejob.cpp" line="57"/>
@@ -2363,92 +2365,92 @@ A Shotcut megpróbálja majd kijavítani a projektet.
         <location filename="../src/docks/filesdock.ui" line="18"/>
         <location filename="../src/docks/filesdock.cpp" line="594"/>
         <source>Files</source>
-        <translation type="unfinished"></translation>
+        <translation type="Fájl"></translation>
     </message>
     <message>
         <location filename="../src/docks/filesdock.ui" line="61"/>
         <source>Location</source>
-        <translation type="unfinished"></translation>
+        <translation type="Hely"></translation>
     </message>
     <message>
         <location filename="../src/docks/filesdock.ui" line="90"/>
         <source>Add the current folder to the saved locations</source>
-        <translation type="unfinished"></translation>
+        <translation type="Az aktuális mappa hozzáadása a mentett helyekhez"></translation>
     </message>
     <message>
         <location filename="../src/docks/filesdock.ui" line="110"/>
         <source>Remove the selected location</source>
-        <translation type="unfinished"></translation>
+        <translation type="A kiválasztott hely eltávolítása"></translation>
     </message>
     <message>
         <location filename="../src/docks/filesdock.cpp" line="499"/>
         <source>Home</source>
         <comment>The user&apos;s home folder in the file system</comment>
-        <translation type="unfinished"></translation>
+        <translation type="A felhasználó saját mappája a fájlrendszerben"></translation>
     </message>
     <message>
         <location filename="../src/docks/filesdock.cpp" line="500"/>
         <source>Current Project</source>
-        <translation type="unfinished"></translation>
+        <translation type="Aktuális projekt"></translation>
     </message>
     <message>
         <location filename="../src/docks/filesdock.cpp" line="502"/>
         <source>Documents</source>
-        <translation type="unfinished"></translation>
+        <translation type="Dokumentumok"></translation>
     </message>
     <message>
         <location filename="../src/docks/filesdock.cpp" line="506"/>
         <source>Movies</source>
-        <comment>The system-provided videos folder called Movies on macOS</comment>
-        <translation type="unfinished"></translation>
+        <comment>A rendszer által biztosított videók mappa, a Filmek macOS rendszeren</comment>
+        <translation type="Filmek"></translation>
     </message>
     <message>
         <location filename="../src/docks/filesdock.cpp" line="510"/>
         <source>Music</source>
-        <translation type="unfinished"></translation>
+        <translation type="Zenék"></translation>
     </message>
     <message>
         <location filename="../src/docks/filesdock.cpp" line="513"/>
         <source>Pictures</source>
-        <comment>The system-provided photos folder</comment>
-        <translation type="unfinished"></translation>
+        <comment>A rendszer által biztosított fényképek mappa</comment>
+        <translation type="Képek"></translation>
     </message>
     <message>
         <location filename="../src/docks/filesdock.cpp" line="517"/>
         <source>Volumes</source>
-        <comment>The macOS file system location where external drives and network shares are mounted</comment>
-        <translation type="unfinished"></translation>
+        <comment>A macOS fájlrendszer helye, ahol a külső meghajtók és hálózati megosztások csatlakoztatva vannak</comment>
+        <translation type="Meghajtók"></translation>
     </message>
     <message>
         <location filename="../src/docks/filesdock.cpp" line="522"/>
         <source>Videos</source>
-        <translation type="unfinished"></translation>
+        <translation type="Videók"></translation>
     </message>
     <message>
         <location filename="../src/docks/filesdock.cpp" line="604"/>
         <source>Select</source>
-        <translation type="unfinished"></translation>
+        <translation type="Kiválaszt"></translation>
     </message>
     <message>
         <location filename="../src/docks/filesdock.cpp" line="608"/>
         <source>Files Controls</source>
-        <translation type="unfinished"></translation>
+        <translation type="Fájlvezérlők"></translation>
     </message>
     <message>
         <location filename="../src/docks/filesdock.cpp" line="613"/>
         <source>Files Menu</source>
-        <translation type="unfinished"></translation>
+        <translation type="Fájl menü"></translation>
     </message>
     <message>
         <location filename="../src/docks/filesdock.cpp" line="632"/>
         <location filename="../src/docks/filesdock.cpp" line="636"/>
         <source>Files Filters</source>
-        <translation type="unfinished"></translation>
+        <translation type="Fájl szűrők"></translation>
     </message>
     <message>
         <location filename="../src/docks/filesdock.cpp" line="659"/>
         <source>Only show files whose name contains some text</source>
-        <translation type="unfinished"></translation>
+        <translation type="Csak olyan fájlokat jelenít meg, amelyek neve tartalmaz egy szöveget"></translation>
     </message>
     <message>
         <location filename="../src/docks/filesdock.cpp" line="660"/>
@@ -2488,7 +2490,7 @@ A Shotcut megpróbálja majd kijavítani a projektet.
     <message>
         <location filename="../src/docks/filesdock.cpp" line="812"/>
         <source>Open In Shotcut</source>
-        <translation type="unfinished"></translation>
+        <translation type="Megnyitás a Shotcutban"></translation>
     </message>
     <message>
         <location filename="../src/docks/filesdock.cpp" line="813"/>
@@ -2498,12 +2500,12 @@ A Shotcut megpróbálja majd kijavítani a projektet.
     <message>
         <location filename="../src/docks/filesdock.cpp" line="821"/>
         <source>System Default</source>
-        <translation type="unfinished"></translation>
+        <translation type="Rendszer alapértelmezett"></translation>
     </message>
     <message>
         <location filename="../src/docks/filesdock.cpp" line="835"/>
         <source>Other...</source>
-        <translation type="unfinished"></translation>
+        <translation type="Egyéb..."></translation>
     </message>
     <message>
         <location filename="../src/docks/filesdock.cpp" line="843"/>
@@ -2513,7 +2515,7 @@ A Shotcut megpróbálja majd kijavítani a projektet.
     <message>
         <location filename="../src/docks/filesdock.cpp" line="851"/>
         <source>Show In File Manager</source>
-        <translation type="unfinished"></translation>
+        <translation type="Megjelenítés a Fájlkezelőben"></translation>
     </message>
     <message>
         <location filename="../src/docks/filesdock.cpp" line="861"/>
@@ -2533,12 +2535,12 @@ A Shotcut megpróbálja majd kijavítani a projektet.
     <message>
         <location filename="../src/docks/filesdock.cpp" line="891"/>
         <source>Open Previous</source>
-        <translation type="unfinished"></translation>
+        <translation type="Előző megnyitása"></translation>
     </message>
     <message>
         <location filename="../src/docks/filesdock.cpp" line="903"/>
         <source>Open Next</source>
-        <translation type="unfinished"></translation>
+        <translation type="Következő megnyitása"></translation>
     </message>
     <message>
         <location filename="../src/docks/filesdock.cpp" line="915"/>
@@ -2548,7 +2550,7 @@ A Shotcut megpróbálja majd kijavítani a projektet.
     <message>
         <location filename="../src/docks/filesdock.cpp" line="916"/>
         <source>Show or hide video files</source>
-        <translation type="unfinished"></translation>
+        <translation type="Videofájlok megjelenítése vagy elrejtése"></translation>
     </message>
     <message>
         <location filename="../src/docks/filesdock.cpp" line="921"/>
@@ -2558,17 +2560,17 @@ A Shotcut megpróbálja majd kijavítani a projektet.
     <message>
         <location filename="../src/docks/filesdock.cpp" line="922"/>
         <source>Show or hide audio files</source>
-        <translation type="unfinished"></translation>
+        <translation type="Hangfájlok megjelenítése vagy elrejtése"></translation>
     </message>
     <message>
         <location filename="../src/docks/filesdock.cpp" line="927"/>
         <source>Image</source>
-        <translation type="unfinished"></translation>
+        <translation type="Kép"></translation>
     </message>
     <message>
         <location filename="../src/docks/filesdock.cpp" line="928"/>
         <source>Show or hide image files</source>
-        <translation type="unfinished"></translation>
+        <translation type="Képfájlok megjelenítése vagy elrejtése"></translation>
     </message>
     <message>
         <location filename="../src/docks/filesdock.cpp" line="933"/>
@@ -2578,69 +2580,69 @@ A Shotcut megpróbálja majd kijavítani a projektet.
     <message>
         <location filename="../src/docks/filesdock.cpp" line="934"/>
         <source>Show or hide other kinds of files</source>
-        <translation type="unfinished"></translation>
+        <translation type="Más típusú fájlok megjelenítése vagy elrejtése"></translation>
     </message>
     <message>
         <location filename="../src/docks/filesdock.cpp" line="939"/>
         <source>Folders</source>
-        <translation type="unfinished"></translation>
+        <translation type="Mappák"></translation>
     </message>
     <message>
         <location filename="../src/docks/filesdock.cpp" line="940"/>
         <source>Hide or show the list of folders</source>
-        <translation type="unfinished"></translation>
+        <translation type="A mappák listájának elrejtése vagy megjelenítése"></translation>
     </message>
     <message>
         <location filename="../src/docks/filesdock.cpp" line="951"/>
         <source>Go Up</source>
-        <translation type="unfinished"></translation>
+        <translation type="Felmegy"></translation>
     </message>
     <message>
         <location filename="../src/docks/filesdock.cpp" line="952"/>
         <source>Show the parent folder</source>
-        <translation type="unfinished"></translation>
+        <translation type="A szülőmappa megjelenítése"></translation>
     </message>
     <message>
         <location filename="../src/docks/filesdock.cpp" line="970"/>
         <source>Refresh Folders</source>
-        <translation type="unfinished"></translation>
+        <translation type="Mappák frissítése"></translation>
     </message>
     <message>
         <location filename="../src/docks/filesdock.cpp" line="991"/>
         <source>Search</source>
-        <translation type="unfinished"></translation>
+        <translation type="Keresés"></translation>
     </message>
     <message>
         <location filename="../src/docks/filesdock.cpp" line="1015"/>
         <source>Open With</source>
-        <translation type="unfinished"></translation>
+        <translation type="Megnyitás"></translation>
     </message>
     <message>
         <location filename="../src/docks/filesdock.cpp" line="1264"/>
         <source>Executable Files (*.exe);;All Files (*)</source>
-        <translation type="unfinished"></translation>
+        <translation type="Végrehajtható fájlok (*.exe); Minden fájl (*)"></translation>
     </message>
     <message>
         <location filename="../src/docks/filesdock.cpp" line="1269"/>
         <source>Choose Executable</source>
-        <translation type="unfinished"></translation>
+        <translation type="Válassza a Végrehajtható fájlt"></translation>
     </message>
     <message>
         <location filename="../src/docks/filesdock.cpp" line="1293"/>
         <source>Remove From Open Other</source>
-        <translation type="unfinished"></translation>
+        <translation type="Eltávolítás a Megnyitás másik oldalról"></translation>
     </message>
     <message numerus="yes">
         <location filename="../src/docks/filesdock.cpp" line="1312"/>
         <source>%n item(s)</source>
-        <translation type="unfinished">
+        <translation type="%n tétel(ek)">
             <numerusform></numerusform>
         </translation>
     </message>
     <message>
         <location filename="../src/docks/filesdock.cpp" line="1355"/>
         <source>Add Location</source>
-        <translation type="unfinished"></translation>
+        <translation type="Hely hozzáadása"></translation>
     </message>
     <message>
         <location filename="../src/docks/filesdock.cpp" line="1356"/>
@@ -2650,12 +2652,12 @@ A Shotcut megpróbálja majd kijavítani a projektet.
     <message>
         <location filename="../src/docks/filesdock.cpp" line="1374"/>
         <source>Delete Location</source>
-        <translation type="unfinished"></translation>
+        <translation type="Hely törlése"></translation>
     </message>
     <message>
         <location filename="../src/docks/filesdock.cpp" line="1375"/>
         <source>Are you sure you want to remove %1?</source>
-        <translation type="unfinished"></translation>
+        <translation type="Biztosan el akarja távolítani a(z) %1?"></translation>
     </message>
 </context>
 <context>
@@ -2668,7 +2670,7 @@ A Shotcut megpróbálja majd kijavítani a projektet.
     <message>
         <location filename="../src/docks/filesdock.cpp" line="238"/>
         <source>Image</source>
-        <translation type="unfinished"></translation>
+        <translation type="Kép"></translation>
     </message>
     <message>
         <location filename="../src/docks/filesdock.cpp" line="239"/>
@@ -2686,12 +2688,12 @@ A Shotcut megpróbálja majd kijavítani a projektet.
     <message>
         <location filename="../src/docks/filesdock.cpp" line="409"/>
         <source>Date: %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="Dátum: %1"></translation>
     </message>
     <message>
         <location filename="../src/docks/filesdock.cpp" line="418"/>
         <source>Size: %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="Méret: %1"></translation>
     </message>
 </context>
 <context>
@@ -2727,7 +2729,7 @@ A Shotcut megpróbálja majd kijavítani a projektet.
     <message>
         <location filename="../src/qml/views/filter/FilterMenu.qml" line="200"/>
         <source>Show GPU video filters</source>
-        <translation type="unfinished"></translation>
+        <translation type="GPU videoszűrők megjelenítése"></translation>
     </message>
     <message>
         <location filename="../src/qml/views/filter/FilterMenu.qml" line="221"/>
@@ -2752,12 +2754,12 @@ A Shotcut megpróbálja majd kijavítani a projektet.
     <message>
         <location filename="../src/qml/views/filter/FilterMenu.qml" line="274"/>
         <source>Sets</source>
-        <translation type="unfinished"></translation>
+        <translation type="Készletek"></translation>
     </message>
     <message>
         <location filename="../src/qml/views/filter/FilterMenu.qml" line="285"/>
         <source>Show filter sets</source>
-        <translation type="unfinished"></translation>
+        <translation type="Szűrőkészletek megjelenítése"></translation>
     </message>
     <message>
         <location filename="../src/qml/views/filter/FilterMenu.qml" line="140"/>
@@ -2767,7 +2769,7 @@ A Shotcut megpróbálja majd kijavítani a projektet.
     <message>
         <location filename="../src/qml/views/filter/FilterMenu.qml" line="371"/>
         <source>Delete a custom filter set by right-clicking it.</source>
-        <translation type="unfinished"></translation>
+        <translation type="Töröljön egy egyéni szűrőkészletet a jobb gombbal kattintva."></translation>
     </message>
     <message>
         <location filename="../src/qml/views/filter/FilterMenu.qml" line="165"/>
@@ -2790,13 +2792,14 @@ A Shotcut megpróbálja majd kijavítani a projektet.
     <message>
         <location filename="../src/qml/views/filter/FilterMenuDelegate.qml" line="116"/>
         <source>Delete Filter Set</source>
-        <translation type="unfinished"></translation>
+        <translation type="Szűrőkészlet törlése"></translation>
     </message>
     <message>
         <location filename="../src/qml/views/filter/FilterMenuDelegate.qml" line="128"/>
         <source>Are you sure you want to delete this?
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="Biztos, hogy törölni akarja ezt?
+%1"></translation>
     </message>
     <message>
         <location filename="../src/qml/views/filter/FilterMenuDelegate.qml" line="143"/>
@@ -2824,7 +2827,7 @@ A Shotcut megpróbálja majd kijavítani a projektet.
     <message>
         <location filename="../src/docks/filtersdock.cpp" line="217"/>
         <source>Choose a filter to add</source>
-        <translation type="unfinished"></translation>
+        <translation type="Válassza ki a hozzáadni kívánt szűrőt"></translation>
     </message>
     <message>
         <location filename="../src/docks/filtersdock.cpp" line="229"/>
@@ -2839,42 +2842,42 @@ A Shotcut megpróbálja majd kijavítani a projektet.
     <message>
         <location filename="../src/docks/filtersdock.cpp" line="238"/>
         <source>Copy Enabled</source>
-        <translation type="unfinished"></translation>
+        <translation type="Másolás engedélyezve"></translation>
     </message>
     <message>
         <location filename="../src/docks/filtersdock.cpp" line="239"/>
         <source>Copy checked filters to the clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation type="Másolja a bejelölt szűrőket a vágólapra"></translation>
     </message>
     <message>
         <location filename="../src/docks/filtersdock.cpp" line="246"/>
         <source>Copy Current</source>
-        <translation type="unfinished"></translation>
+        <translation type="Aktuális másolása"></translation>
     </message>
     <message>
         <location filename="../src/docks/filtersdock.cpp" line="247"/>
         <source>Copy current filter to the clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation type="Aktuális szűrő másolása a vágólapra"></translation>
     </message>
     <message>
         <location filename="../src/docks/filtersdock.cpp" line="254"/>
         <source>Copy All</source>
-        <translation type="unfinished"></translation>
+        <translation type="Összes másolása"></translation>
     </message>
     <message>
         <location filename="../src/docks/filtersdock.cpp" line="255"/>
         <source>Copy all filters to the clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation type="Másolja az összes szűrőt a vágólapra"></translation>
     </message>
     <message>
         <location filename="../src/docks/filtersdock.cpp" line="262"/>
         <source>Paste Filters</source>
-        <translation type="unfinished"></translation>
+        <translation type="Szűrők beillesztése"></translation>
     </message>
     <message>
         <location filename="../src/docks/filtersdock.cpp" line="263"/>
         <source>Paste the filters from the clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation type="Illessze be a szűrőket a vágólapról"></translation>
     </message>
 </context>
 <context>
@@ -2890,7 +2893,7 @@ A Shotcut megpróbálja majd kijavítani a projektet.
     <message>
         <location filename="../src/widgets/glaxnimateproducerwidget.cpp" line="636"/>
         <source>Preparing Glaxnimate preview....</source>
-        <translation type="unfinished"></translation>
+        <translation type="A Glaxnimate előnézetének előkészítése...."></translation>
     </message>
     <message>
         <location filename="../src/widgets/glaxnimateproducerwidget.cpp" line="689"/>
@@ -2898,12 +2901,15 @@ A Shotcut megpróbálja majd kijavítani a projektet.
 
 Click OK to open a file dialog to choose its location.
 Click Cancel if you do not have Glaxnimate.</source>
-        <translation type="unfinished"></translation>
+        <translation type="A Glaxnimate programot nem találtuk.
+
+Kattintson az OK gombra, hogy megnyíljon egy fájl párbeszédpanel a hely kiválasztásához.
+Kattintson a Mégse gombra, ha nincs meg a Glaxnimate."></translation>
     </message>
     <message>
         <location filename="../src/widgets/glaxnimateproducerwidget.cpp" line="699"/>
         <source>Find Glaxnimate</source>
-        <translation type="unfinished"></translation>
+        <translation type="Keresse meg a Glaxnimate -t"></translation>
     </message>
 </context>
 <context>
@@ -2916,7 +2922,7 @@ Click Cancel if you do not have Glaxnimate.</source>
     <message>
         <location filename="../src/widgets/glaxnimateproducerwidget.ui" line="20"/>
         <source>Animation</source>
-        <translation type="unfinished"></translation>
+        <translation type="Animáció"></translation>
     </message>
     <message>
         <location filename="../src/widgets/glaxnimateproducerwidget.ui" line="30"/>
@@ -2961,17 +2967,17 @@ Click Cancel if you do not have Glaxnimate.</source>
     <message>
         <location filename="../src/widgets/glaxnimateproducerwidget.cpp" line="204"/>
         <source>animation</source>
-        <translation type="unfinished"></translation>
+        <translation type="animáció"></translation>
     </message>
     <message>
         <location filename="../src/widgets/glaxnimateproducerwidget.cpp" line="205"/>
         <source>Glaxnimate (*.rawr);;All Files (*)</source>
-        <translation type="unfinished"></translation>
+        <translation type="Glaxnimate (*.rawr); Minden fájl (*)"></translation>
     </message>
     <message>
         <location filename="../src/widgets/glaxnimateproducerwidget.cpp" line="207"/>
         <source>New Animation</source>
-        <translation type="unfinished"></translation>
+        <translation type="Új animáció"></translation>
     </message>
 </context>
 <context>
@@ -2979,7 +2985,7 @@ Click Cancel if you do not have Glaxnimate.</source>
     <message>
         <location filename="../src/jobs/gopro2gpxjob.cpp" line="34"/>
         <source>Export GPX</source>
-        <translation type="unfinished"></translation>
+        <translation type="GPX exportálása"></translation>
     </message>
 </context>
 <context>
@@ -2999,7 +3005,7 @@ A módosításhoz kattintson</translation>
     <message>
         <location filename="../src/qml/modules/Shotcut/Controls/GradientControl.qml" line="178"/>
         <source>colors</source>
-        <comment>gradient control</comment>
+        <comment>Színátmenet vezérlés</comment>
         <translation>színek</translation>
     </message>
 </context>
@@ -3078,7 +3084,7 @@ A módosításhoz kattintson</translation>
     <message>
         <location filename="../src/widgets/imageproducerwidget.ui" line="341"/>
         <source>Show In Files</source>
-        <translation type="unfinished"></translation>
+        <translation type="Megjelenítés fájlokban"></translation>
     </message>
     <message>
         <location filename="../src/widgets/imageproducerwidget.ui" line="313"/>
@@ -3209,7 +3215,7 @@ A módosításhoz kattintson</translation>
     <message>
         <location filename="../src/jobqueue.cpp" line="126"/>
         <source>failed</source>
-        <translation>hibára futott</translation>
+        <translation>sikertelen</translation>
     </message>
 </context>
 <context>
@@ -3246,7 +3252,7 @@ azt menüt, ahol a futó feladatot leállíthatja.</translation>
     <message>
         <location filename="../src/docks/jobsdock.ui" line="120"/>
         <source>Pause Queue</source>
-        <translation type="unfinished"></translation>
+        <translation type="Várólista szüneteltetése"></translation>
     </message>
     <message>
         <location filename="../src/docks/jobsdock.ui" line="156"/>
@@ -3352,47 +3358,47 @@ azt menüt, ahol a futó feladatot leállíthatja.</translation>
     <message>
         <location filename="../src/docks/keyframesdock.cpp" line="72"/>
         <source>View</source>
-        <translation type="unfinished"></translation>
+        <translation type="Nézet"></translation>
     </message>
     <message>
         <location filename="../src/docks/keyframesdock.cpp" line="79"/>
         <source>Keyframe</source>
-        <translation type="unfinished"></translation>
+        <translation type="Kulcskép"></translation>
     </message>
     <message>
         <location filename="../src/docks/keyframesdock.cpp" line="80"/>
         <source>From Previous</source>
-        <translation type="unfinished"></translation>
+        <translation type="Az előzőből"></translation>
     </message>
     <message>
         <location filename="../src/docks/keyframesdock.cpp" line="85"/>
         <source>Ease Out</source>
-        <translation type="unfinished"></translation>
+        <translation type="Könnyítés"></translation>
     </message>
     <message>
         <location filename="../src/docks/keyframesdock.cpp" line="102"/>
         <source>To Next</source>
-        <translation type="unfinished"></translation>
+        <translation type="A következőig"></translation>
     </message>
     <message>
         <location filename="../src/docks/keyframesdock.cpp" line="107"/>
         <source>Ease In</source>
-        <translation type="unfinished"></translation>
+        <translation type="Megkönnyít"></translation>
     </message>
     <message>
         <location filename="../src/docks/keyframesdock.cpp" line="122"/>
         <source>Ease In/Out</source>
-        <translation type="unfinished"></translation>
+        <translation type="Könnyítés be/ki"></translation>
     </message>
     <message>
         <location filename="../src/docks/keyframesdock.cpp" line="142"/>
         <source>Keyframes Clip</source>
-        <translation type="unfinished"></translation>
+        <translation type="Kulcsképkockák klip"></translation>
     </message>
     <message>
         <location filename="../src/docks/keyframesdock.cpp" line="150"/>
         <source>Keyframes Controls</source>
-        <translation type="unfinished"></translation>
+        <translation type="Kulcsképkockák vezérlői"></translation>
     </message>
     <message>
         <location filename="../src/docks/keyframesdock.cpp" line="154"/>
@@ -3402,42 +3408,42 @@ azt menüt, ahol a futó feladatot leállíthatja.</translation>
     <message>
         <location filename="../src/docks/keyframesdock.cpp" line="224"/>
         <source>Set Filter Start</source>
-        <translation type="unfinished"></translation>
+        <translation type="Szűrő indításának beállítása"></translation>
     </message>
     <message>
         <location filename="../src/docks/keyframesdock.cpp" line="243"/>
         <source>Set Filter End</source>
-        <translation type="unfinished"></translation>
+        <translation type="Szűrő végének beállítása"></translation>
     </message>
     <message>
         <location filename="../src/docks/keyframesdock.cpp" line="262"/>
         <source>Set First Simple Keyframe</source>
-        <translation type="unfinished"></translation>
+        <translation type="Állítsa be az első egyszerű kulcsképkockát"></translation>
     </message>
     <message>
         <location filename="../src/docks/keyframesdock.cpp" line="281"/>
         <source>Set Second Simple Keyframe</source>
-        <translation type="unfinished"></translation>
+        <translation type="Második egyszerű kulcskép beállítása"></translation>
     </message>
     <message>
         <location filename="../src/docks/keyframesdock.cpp" line="300"/>
         <source>Scrub While Dragging</source>
-        <translation type="unfinished"></translation>
+        <translation type="Súrolás húzás közben"></translation>
     </message>
     <message>
         <location filename="../src/docks/keyframesdock.cpp" line="313"/>
         <source>Zoom Keyframes Out</source>
-        <translation type="unfinished"></translation>
+        <translation type="Kulcsképek kicsinyítése"></translation>
     </message>
     <message>
         <location filename="../src/docks/keyframesdock.cpp" line="324"/>
         <source>Zoom Keyframes In</source>
-        <translation type="unfinished"></translation>
+        <translation type="Kulcsképek nagyítása"></translation>
     </message>
     <message>
         <location filename="../src/docks/keyframesdock.cpp" line="335"/>
         <source>Zoom Keyframes To Fit</source>
-        <translation type="unfinished"></translation>
+        <translation type="Kulcskockák nagyítása illeszkedésre"></translation>
     </message>
     <message>
         <location filename="../src/docks/keyframesdock.cpp" line="351"/>
@@ -3460,42 +3466,42 @@ azt menüt, ahol a futó feladatot leállíthatja.</translation>
     <message>
         <location filename="../src/docks/keyframesdock.cpp" line="407"/>
         <source>Ease Out Sinusoidal</source>
-        <translation type="unfinished"></translation>
+        <translation type="Könnyítse meg a szinuszosan"></translation>
     </message>
     <message>
         <location filename="../src/docks/keyframesdock.cpp" line="424"/>
         <source>Ease Out Quadratic</source>
-        <translation type="unfinished"></translation>
+        <translation type="Könnyítse meg négyzetesen"></translation>
     </message>
     <message>
         <location filename="../src/docks/keyframesdock.cpp" line="441"/>
         <source>Ease Out Cubic</source>
-        <translation type="unfinished"></translation>
+        <translation type="Könnyítse meg Kubikosan"></translation>
     </message>
     <message>
         <location filename="../src/docks/keyframesdock.cpp" line="458"/>
         <source>Ease Out Quartic</source>
-        <translation type="unfinished"></translation>
+        <translation type="Könnyítse meg kvadratikusan"></translation>
     </message>
     <message>
         <location filename="../src/docks/keyframesdock.cpp" line="475"/>
         <source>Ease Out Quintic</source>
-        <translation type="unfinished"></translation>
+        <translation type="Quintic könnyítés"></translation>
     </message>
     <message>
         <location filename="../src/docks/keyframesdock.cpp" line="492"/>
         <source>Ease Out Exponential</source>
-        <translation type="unfinished"></translation>
+        <translation type="Exponenciális könnyítés"></translation>
     </message>
     <message>
         <location filename="../src/docks/keyframesdock.cpp" line="509"/>
         <source>Ease Out Circular</source>
-        <translation type="unfinished"></translation>
+        <translation type="Körkörös könnyítés"></translation>
     </message>
     <message>
         <location filename="../src/docks/keyframesdock.cpp" line="526"/>
         <source>Ease Out Back</source>
-        <translation type="unfinished"></translation>
+        <translation type="Könnyedén vissza"></translation>
     </message>
     <message>
         <location filename="../src/docks/keyframesdock.cpp" line="551"/>
